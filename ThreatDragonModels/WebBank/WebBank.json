@@ -15,7 +15,70 @@
       {
         "title": "f",
         "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 1
+        "id": 1,
+        "diagramJson": {
+          "cells": [
+            {
+              "type": "tm.Store",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 791,
+                "y": 119
+              },
+              "angle": 0,
+              "id": "5101798d-eb8e-4ef8-be83-057f83b17769",
+              "z": 1,
+              "hasOpenThreats": false,
+              "isALog": true,
+              "storesCredentials": true,
+              "isEncrypted": true,
+              "outOfScope": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "AuditLog"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 30,
+                "y": 20
+              },
+              "target": {
+                "x": 178,
+                "y": 387
+              },
+              "vertices": [
+                {
+                  "x": 180,
+                  "y": 124
+                },
+                {
+                  "x": 220,
+                  "y": 245
+                }
+              ],
+              "id": "1490bb0f-d9c6-4cbf-9afa-5e3f03a0e226",
+              "z": 2,
+              "attrs": {}
+            }
+          ]
+        },
+        "size": {
+          "height": 590,
+          "width": 951
+        }
       }
     ]
   }
