@@ -8,16 +8,6 @@
     "contributors": [],
     "diagrams": [
       {
-        "title": "sd",
-        "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 0
-      },
-      {
-        "title": "d",
-        "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 1
-      },
-      {
         "title": "sdf",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 2
